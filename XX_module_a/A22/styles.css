@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f4f4f4;
+  }
+
+  .chart {
+    display: flex;
+    gap: 10px;
+    align-items: flex-end;
+    width: 700px;
+    height: 350px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background: #fff;
+    overflow: hidden;
+  }
+
+  .bar {
+    width: 14%;
+    background-color: steelblue;
+    height: 0;
+    transition: height 0.3s ease-out;
+  }
+
+  /* Delay animation in sequence */
+  .chart:hover .bar:nth-child(1) {
+    height: 50%;
+    transition-delay: 0s;
+  }
+
+  .chart:hover .bar:nth-child(2) {
+    height: 70%;
+    transition-delay: 0.2s;
+  }
+
+  .chart:hover .bar:nth-child(3) {
+    height: 40%;
+    transition-delay: 0.4s;
+  }
+
+  .chart:hover .bar:nth-child(4) {
+    height: 80%;
+    transition-delay: 0.6s;
+  }
+
+  .chart:hover .bar:nth-child(5) {
+    height: 60%;
+    transition-delay: 0.8s;
+  }
+
+  .chart:hover .bar:nth-child(6) {
+    height: 10%;
+    transition-delay: 1s;
+  }
+
+  .chart:hover .bar:nth-child(7) {
+    height: 90%;
+    transition-delay: 1.2s;
+  }
+
+  .chart:hover .bar:nth-child(8) {
+    height: 20%;
+    transition-delay: 1.4s;
+  }
