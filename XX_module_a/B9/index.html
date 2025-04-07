@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Image Compare</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div>
+        <input type="text">
+        <img src="after.jpg">
+        <img src="before.jpg">
+    </div>
+
+    <script>
+        const container = document.querySelector("div");
+        const afterImg = container.querySelector('img[src="after.jpg"]');
+        const splitter = container.querySelector('input[type="text"]');
+      
+        function updateCompare(x) {
+          const rect = container.getBoundingClientRect();
+          let offset = x - rect.left;
+          offset = Math.max(0, Math.min(offset, rect.width));
+          const percent = (offset / rect.width) * 100;
+      
+          // atualiza o corte da imagem "after"
+          afterImg.style.clipPath = `inset(0 ${100 - percent}% 0 0)`;
+      
+          // move o splitter (input)
+          splitter.style.left = `${percent}%`;
+        }
+      
+        let dragging = false;
+      
+        container.addEventListener("mousedown", (e) => {
+          dragging = true;
+          updateCompare(e.clientX);
+        });
+      
+        window.addEventListener("mousemove", (e) => {
+          if (dragging) updateCompare(e.clientX);
+        });
+      
+        window.addEventListener("mouseup", () => {
+          dragging = false;
+        });
+      
+        container.addEventListener("click", (e) => {
+          updateCompare(e.clientX);
+        });
+      </script>
+</body>
+</html>
+
