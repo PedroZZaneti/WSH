@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Folder to ZIP Converter</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    <script src="script.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Folder to ZIP Converter</h1>
+    <p>Select a folder to compress it into a ZIP file (empty subfolders will be excluded)</p>
+    
+    <div class="container">
+        <input type="file" id="folderInput" webkitdirectory directory multiple />
+        <div id="folderName"></div>
+        <button id="compressBtn" disabled>Compress</button>
+        <div id="status"></div>
+    </div>
+</body>
+</html>
