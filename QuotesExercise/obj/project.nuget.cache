@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aCwlGqKKvCI=",
+  "dgSpecHash": "f8WkBpsB788=",
   "success": true,
-  "projectFilePath": "C:\\Users\\wskills2025\\Desktop\\Worldskills Hungary\\WSH\\TestS09\\TestS09.csproj",
+  "projectFilePath": "C:\\Users\\wskills2025\\Desktop\\Worldskills Hungary\\WSH\\QuotesExercise\\TestS09.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wskills2025\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
     "C:\\Users\\wskills2025\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"

@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wskills2025\\Desktop\\Worldskills Hungary\\WSH\\TestS09\\TestS09.csproj",
+      "projectUniqueName": "C:\\Users\\wskills2025\\Desktop\\Worldskills Hungary\\WSH\\QuotesExercise\\TestS09.csproj",
       "projectName": "TestS09",
-      "projectPath": "C:\\Users\\wskills2025\\Desktop\\Worldskills Hungary\\WSH\\TestS09\\TestS09.csproj",
+      "projectPath": "C:\\Users\\wskills2025\\Desktop\\Worldskills Hungary\\WSH\\QuotesExercise\\TestS09.csproj",
       "packagesPath": "C:\\Users\\wskills2025\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wskills2025\\Desktop\\Worldskills Hungary\\WSH\\TestS09\\obj\\",
+      "outputPath": "C:\\Users\\wskills2025\\Desktop\\Worldskills Hungary\\WSH\\QuotesExercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wskills2025\\AppData\\Roaming\\NuGet\\NuGet.Config",
