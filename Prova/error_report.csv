@@ -1,2301 +1,905 @@
 Row Number,Error Description
-2,Phone number too short
 2,Invalid join date
 2,Invalid or earlier last purchase date
 3,Phone number too short
 3,Invalid join date
 3,Invalid or earlier last purchase date
-4,Phone number too short
-4,Invalid join date
 4,Invalid or earlier last purchase date
-5,Phone number too short
 5,Invalid join date
-5,Invalid or earlier last purchase date
-6,Phone number too short
 6,Invalid join date
-6,Invalid or earlier last purchase date
-7,Phone number too short
-7,Invalid join date
 7,Invalid or earlier last purchase date
-8,Phone number too short
 8,Invalid join date
-8,Invalid or earlier last purchase date
-9,Phone number too short
-9,Invalid join date
-9,Invalid or earlier last purchase date
-10,Phone number too short
-10,Invalid join date
 10,Invalid or earlier last purchase date
 11,Phone number too short
-11,Invalid join date
 11,Invalid or earlier last purchase date
-12,Phone number too short
-12,Invalid join date
-12,Invalid or earlier last purchase date
-13,Phone number too short
 13,Invalid join date
-13,Invalid or earlier last purchase date
-14,Phone number too short
 14,Invalid join date
 14,Invalid or earlier last purchase date
-15,Phone number too short
 15,Invalid join date
-15,Invalid or earlier last purchase date
-16,Phone number too short
-16,Invalid join date
 16,Invalid or earlier last purchase date
-17,Phone number too short
-17,Invalid join date
 17,Invalid or earlier last purchase date
-18,Phone number too short
 18,Invalid join date
-18,Invalid or earlier last purchase date
 19,Phone number too short
 19,Invalid join date
-19,Invalid or earlier last purchase date
-20,Phone number too short
-20,Invalid join date
 20,Invalid or earlier last purchase date
-21,Phone number too short
-21,Invalid join date
-21,Invalid or earlier last purchase date
-22,Phone number too short
-22,Invalid join date
 22,Invalid or earlier last purchase date
-23,Phone number too short
-23,Invalid join date
 23,Invalid or earlier last purchase date
 24,Invalid age
-24,Phone number too short
-24,Invalid join date
-24,Invalid or earlier last purchase date
-25,Phone number too short
 25,Invalid join date
-25,Invalid or earlier last purchase date
-26,Phone number too short
 26,Invalid join date
 26,Invalid or earlier last purchase date
-27,Phone number too short
 27,Invalid join date
 27,Invalid or earlier last purchase date
 28,Invalid gender
-28,Phone number too short
 28,Invalid join date
-28,Invalid or earlier last purchase date
-29,Phone number too short
-29,Invalid join date
-29,Invalid or earlier last purchase date
-30,Phone number too short
-30,Invalid join date
 30,Invalid or earlier last purchase date
-31,Phone number too short
-31,Invalid join date
 31,Invalid or earlier last purchase date
 32,Invalid age
-32,Phone number too short
 32,Invalid join date
 32,Invalid or earlier last purchase date
-33,Phone number too short
-33,Invalid join date
 33,Invalid or earlier last purchase date
 34,Invalid gender
-34,Phone number too short
-34,Invalid join date
-34,Invalid or earlier last purchase date
 35,Phone number too short
-35,Invalid join date
 35,Invalid or earlier last purchase date
-36,Phone number too short
-36,Invalid join date
 36,Invalid or earlier last purchase date
-37,Phone number too short
 37,Invalid join date
 37,Invalid or earlier last purchase date
 38,Invalid gender
-38,Phone number too short
-38,Invalid join date
 38,Invalid or earlier last purchase date
-39,Phone number too short
-39,Invalid join date
 39,Invalid or earlier last purchase date
-40,Phone number too short
 40,Invalid join date
 40,Invalid or earlier last purchase date
 41,Phone number too short
 41,Invalid join date
 41,Invalid or earlier last purchase date
-42,Phone number too short
-42,Invalid join date
 42,Invalid or earlier last purchase date
 43,Invalid age
-43,Phone number too short
-43,Invalid join date
 43,Invalid or earlier last purchase date
-44,Phone number too short
-44,Invalid join date
-44,Invalid or earlier last purchase date
-45,Phone number too short
 45,Invalid join date
 45,Invalid or earlier last purchase date
-46,Phone number too short
-46,Invalid join date
 46,Invalid or earlier last purchase date
-47,Phone number too short
 47,Invalid join date
-47,Invalid or earlier last purchase date
 48,Phone number too short
 48,Invalid join date
-48,Invalid or earlier last purchase date
-49,Phone number too short
-49,Invalid join date
 49,Invalid or earlier last purchase date
-50,Phone number too short
-50,Invalid join date
-50,Invalid or earlier last purchase date
-51,Phone number too short
-51,Invalid join date
-51,Invalid or earlier last purchase date
 52,Phone number too short
 52,Invalid join date
-52,Invalid or earlier last purchase date
-53,Phone number too short
 53,Invalid join date
-53,Invalid or earlier last purchase date
 54,Invalid age
-54,Phone number too short
 54,Invalid join date
-54,Invalid or earlier last purchase date
-55,Phone number too short
 55,Invalid join date
-55,Invalid or earlier last purchase date
 56,Invalid age
-56,Phone number too short
-56,Invalid join date
-56,Invalid or earlier last purchase date
-57,Phone number too short
 57,Invalid join date
-57,Invalid or earlier last purchase date
-58,Phone number too short
 58,Invalid join date
 58,Invalid or earlier last purchase date
-59,Phone number too short
-59,Invalid join date
 59,Invalid or earlier last purchase date
 60,Invalid gender
-60,Phone number too short
 60,Invalid join date
-60,Invalid or earlier last purchase date
-61,Phone number too short
 61,Invalid join date
-61,Invalid or earlier last purchase date
 62,Invalid age
-62,Phone number too short
 62,Invalid join date
-62,Invalid or earlier last purchase date
-63,Phone number too short
-63,Invalid join date
-63,Invalid or earlier last purchase date
-64,Phone number too short
-64,Invalid join date
-64,Invalid or earlier last purchase date
-65,Phone number too short
-65,Invalid join date
 65,Invalid or earlier last purchase date
-66,Phone number too short
-66,Invalid join date
 66,Invalid or earlier last purchase date
-67,Phone number too short
-67,Invalid join date
 67,Invalid or earlier last purchase date
-68,Phone number too short
-68,Invalid join date
-68,Invalid or earlier last purchase date
-69,Phone number too short
 69,Invalid join date
-69,Invalid or earlier last purchase date
 70,Invalid age
-70,Phone number too short
-70,Invalid join date
-70,Invalid or earlier last purchase date
-71,Phone number too short
-71,Invalid join date
 71,Invalid or earlier last purchase date
-72,Phone number too short
 72,Invalid join date
-72,Invalid or earlier last purchase date
-73,Phone number too short
-73,Invalid join date
 73,Invalid or earlier last purchase date
-74,Phone number too short
-74,Invalid join date
-74,Invalid or earlier last purchase date
-75,Phone number too short
-75,Invalid join date
-75,Invalid or earlier last purchase date
-76,Phone number too short
-76,Invalid join date
 76,Invalid or earlier last purchase date
-77,Phone number too short
-77,Invalid join date
-77,Invalid or earlier last purchase date
-78,Phone number too short
 78,Invalid join date
 78,Invalid or earlier last purchase date
-79,Phone number too short
-79,Invalid join date
-79,Invalid or earlier last purchase date
 80,Phone number too short
-80,Invalid join date
 80,Invalid or earlier last purchase date
-81,Phone number too short
-81,Invalid join date
 81,Invalid or earlier last purchase date
-82,Phone number too short
 82,Invalid join date
 82,Invalid or earlier last purchase date
 83,Invalid age
-83,Phone number too short
-83,Invalid join date
-83,Invalid or earlier last purchase date
-84,Phone number too short
 84,Invalid join date
 84,Invalid or earlier last purchase date
-85,Phone number too short
 85,Invalid join date
-85,Invalid or earlier last purchase date
 86,Invalid gender
-86,Phone number too short
-86,Invalid join date
-86,Invalid or earlier last purchase date
 87,Invalid gender
-87,Phone number too short
-87,Invalid join date
-87,Invalid or earlier last purchase date
-88,Phone number too short
-88,Invalid join date
 88,Invalid or earlier last purchase date
 89,Phone number too short
-89,Invalid join date
 89,Invalid or earlier last purchase date
-90,Phone number too short
-90,Invalid join date
-90,Invalid or earlier last purchase date
-91,Phone number too short
 91,Invalid join date
-91,Invalid or earlier last purchase date
-92,Phone number too short
 92,Invalid join date
-92,Invalid or earlier last purchase date
-93,Phone number too short
 93,Invalid join date
 93,Invalid or earlier last purchase date
-94,Phone number too short
-94,Invalid join date
 94,Invalid or earlier last purchase date
-95,Phone number too short
-95,Invalid join date
 95,Invalid or earlier last purchase date
-96,Phone number too short
 96,Invalid join date
 96,Invalid or earlier last purchase date
-97,Phone number too short
 97,Invalid join date
 97,Invalid or earlier last purchase date
-98,Phone number too short
 98,Invalid join date
 98,Invalid or earlier last purchase date
-99,Phone number too short
 99,Invalid join date
 99,Invalid or earlier last purchase date
 100,Invalid age
-100,Phone number too short
-100,Invalid join date
-100,Invalid or earlier last purchase date
-101,Phone number too short
 101,Invalid join date
 101,Invalid or earlier last purchase date
-102,Phone number too short
 102,Invalid join date
-102,Invalid or earlier last purchase date
 103,Phone number too short
-103,Invalid join date
-103,Invalid or earlier last purchase date
-104,Phone number too short
 104,Invalid join date
 104,Invalid or earlier last purchase date
-105,Phone number too short
-105,Invalid join date
-105,Invalid or earlier last purchase date
-106,Phone number too short
 106,Invalid join date
 106,Invalid or earlier last purchase date
 107,Invalid age
 107,Invalid gender
-107,Phone number too short
-107,Invalid join date
 107,Invalid or earlier last purchase date
-108,Phone number too short
 108,Invalid join date
 108,Invalid or earlier last purchase date
-109,Phone number too short
-109,Invalid join date
-109,Invalid or earlier last purchase date
-110,Phone number too short
 110,Invalid join date
 110,Invalid or earlier last purchase date
-111,Phone number too short
 111,Invalid join date
-111,Invalid or earlier last purchase date
 112,Invalid gender
-112,Phone number too short
-112,Invalid join date
-112,Invalid or earlier last purchase date
-113,Phone number too short
-113,Invalid join date
 113,Invalid or earlier last purchase date
 114,Invalid age
-114,Phone number too short
-114,Invalid join date
-114,Invalid or earlier last purchase date
-115,Phone number too short
-115,Invalid join date
-115,Invalid or earlier last purchase date
-116,Phone number too short
 116,Invalid join date
 116,Invalid or earlier last purchase date
-117,Phone number too short
-117,Invalid join date
-117,Invalid or earlier last purchase date
 118,Invalid age
-118,Phone number too short
-118,Invalid join date
 118,Invalid or earlier last purchase date
-119,Phone number too short
-119,Invalid join date
-119,Invalid or earlier last purchase date
-120,Phone number too short
 120,Invalid join date
 120,Invalid or earlier last purchase date
-121,Phone number too short
 121,Invalid join date
-121,Invalid or earlier last purchase date
-122,Phone number too short
 122,Invalid join date
-122,Invalid or earlier last purchase date
-123,Phone number too short
 123,Invalid join date
-123,Invalid or earlier last purchase date
-124,Phone number too short
 124,Invalid join date
-124,Invalid or earlier last purchase date
-125,Phone number too short
 125,Invalid join date
-125,Invalid or earlier last purchase date
-126,Phone number too short
-126,Invalid join date
-126,Invalid or earlier last purchase date
 127,Invalid age
 127,Invalid gender
-127,Phone number too short
 127,Invalid join date
-127,Invalid or earlier last purchase date
-128,Phone number too short
 128,Invalid join date
-128,Invalid or earlier last purchase date
-129,Phone number too short
-129,Invalid join date
-129,Invalid or earlier last purchase date
-130,Phone number too short
-130,Invalid join date
 130,Invalid or earlier last purchase date
 131,Phone number too short
-131,Invalid join date
 131,Invalid or earlier last purchase date
-132,Phone number too short
-132,Invalid join date
-132,Invalid or earlier last purchase date
-133,Phone number too short
-133,Invalid join date
 133,Invalid or earlier last purchase date
-134,Phone number too short
-134,Invalid join date
-134,Invalid or earlier last purchase date
-135,Phone number too short
-135,Invalid join date
 135,Invalid or earlier last purchase date
 136,Invalid age
-136,Phone number too short
-136,Invalid join date
 136,Invalid or earlier last purchase date
-137,Phone number too short
-137,Invalid join date
 137,Invalid or earlier last purchase date
 138,Invalid gender
-138,Phone number too short
-138,Invalid join date
-138,Invalid or earlier last purchase date
-139,Phone number too short
-139,Invalid join date
 139,Invalid or earlier last purchase date
 140,Invalid age
-140,Phone number too short
-140,Invalid join date
 140,Invalid or earlier last purchase date
-141,Phone number too short
 141,Invalid join date
 141,Invalid or earlier last purchase date
-142,Phone number too short
 142,Invalid join date
 142,Invalid or earlier last purchase date
 143,Invalid gender
-143,Phone number too short
 143,Invalid join date
 143,Invalid or earlier last purchase date
 144,Invalid gender
-144,Phone number too short
-144,Invalid join date
-144,Invalid or earlier last purchase date
-145,Phone number too short
 145,Invalid join date
-145,Invalid or earlier last purchase date
-146,Phone number too short
-146,Invalid join date
 146,Invalid or earlier last purchase date
 147,Invalid age
-147,Phone number too short
-147,Invalid join date
 147,Invalid or earlier last purchase date
-148,Phone number too short
-148,Invalid join date
 148,Invalid or earlier last purchase date
-149,Phone number too short
-149,Invalid join date
 149,Invalid or earlier last purchase date
 150,Invalid age
-150,Phone number too short
-150,Invalid join date
 150,Invalid or earlier last purchase date
 151,Phone number too short
-151,Invalid join date
 151,Invalid or earlier last purchase date
 152,Phone number too short
-152,Invalid join date
 152,Invalid or earlier last purchase date
-153,Phone number too short
-153,Invalid join date
 153,Invalid or earlier last purchase date
 154,Invalid gender
-154,Phone number too short
-154,Invalid join date
 154,Invalid or earlier last purchase date
-155,Phone number too short
 155,Invalid join date
 155,Invalid or earlier last purchase date
 156,Phone number too short
 156,Invalid join date
 156,Invalid or earlier last purchase date
-157,Phone number too short
 157,Invalid join date
 157,Invalid or earlier last purchase date
 158,Invalid age
-158,Phone number too short
-158,Invalid join date
-158,Invalid or earlier last purchase date
 159,Phone number too short
-159,Invalid join date
 159,Invalid or earlier last purchase date
-160,Phone number too short
-160,Invalid join date
 160,Invalid or earlier last purchase date
-161,Phone number too short
-161,Invalid join date
-161,Invalid or earlier last purchase date
-162,Phone number too short
-162,Invalid join date
-162,Invalid or earlier last purchase date
-163,Phone number too short
 163,Invalid join date
 163,Invalid or earlier last purchase date
 164,Invalid age
-164,Phone number too short
-164,Invalid join date
 164,Invalid or earlier last purchase date
-165,Phone number too short
-165,Invalid join date
 165,Invalid or earlier last purchase date
-166,Phone number too short
-166,Invalid join date
-166,Invalid or earlier last purchase date
-167,Phone number too short
-167,Invalid join date
 167,Invalid or earlier last purchase date
-168,Phone number too short
-168,Invalid join date
 168,Invalid or earlier last purchase date
-169,Phone number too short
-169,Invalid join date
 169,Invalid or earlier last purchase date
 170,Phone number too short
-170,Invalid join date
 170,Invalid or earlier last purchase date
-171,Phone number too short
 171,Invalid join date
 171,Invalid or earlier last purchase date
-172,Phone number too short
-172,Invalid join date
 172,Invalid or earlier last purchase date
-173,Phone number too short
 173,Invalid join date
-173,Invalid or earlier last purchase date
-174,Phone number too short
-174,Invalid join date
 174,Invalid or earlier last purchase date
 175,Invalid age
-175,Phone number too short
 175,Invalid join date
-175,Invalid or earlier last purchase date
 176,Invalid gender
-176,Phone number too short
 176,Invalid join date
-176,Invalid or earlier last purchase date
-177,Phone number too short
-177,Invalid join date
-177,Invalid or earlier last purchase date
-178,Phone number too short
 178,Invalid join date
 178,Invalid or earlier last purchase date
-179,Phone number too short
 179,Invalid join date
 179,Invalid or earlier last purchase date
-180,Phone number too short
-180,Invalid join date
-180,Invalid or earlier last purchase date
-181,Phone number too short
-181,Invalid join date
-181,Invalid or earlier last purchase date
-182,Phone number too short
 182,Invalid join date
 182,Invalid or earlier last purchase date
 183,Invalid gender
-183,Phone number too short
 183,Invalid join date
-183,Invalid or earlier last purchase date
 184,Invalid age
-184,Phone number too short
-184,Invalid join date
 184,Invalid or earlier last purchase date
-185,Phone number too short
 185,Invalid join date
-185,Invalid or earlier last purchase date
-186,Phone number too short
-186,Invalid join date
 186,Invalid or earlier last purchase date
-187,Phone number too short
-187,Invalid join date
 187,Invalid or earlier last purchase date
 188,Invalid age
-188,Phone number too short
 188,Invalid join date
-188,Invalid or earlier last purchase date
-189,Phone number too short
 189,Invalid join date
 189,Invalid or earlier last purchase date
 190,Invalid gender
-190,Phone number too short
 190,Invalid join date
-190,Invalid or earlier last purchase date
 191,Invalid age
-191,Phone number too short
-191,Invalid join date
 191,Invalid or earlier last purchase date
-192,Phone number too short
 192,Invalid join date
-192,Invalid or earlier last purchase date
 193,Phone number too short
 193,Invalid join date
 193,Invalid or earlier last purchase date
-194,Phone number too short
 194,Invalid join date
-194,Invalid or earlier last purchase date
-195,Phone number too short
-195,Invalid join date
 195,Invalid or earlier last purchase date
-196,Phone number too short
-196,Invalid join date
-196,Invalid or earlier last purchase date
-197,Phone number too short
-197,Invalid join date
 197,Invalid or earlier last purchase date
-198,Phone number too short
-198,Invalid join date
-198,Invalid or earlier last purchase date
-199,Phone number too short
 199,Invalid join date
-199,Invalid or earlier last purchase date
-200,Phone number too short
 200,Invalid join date
 200,Invalid or earlier last purchase date
-201,Phone number too short
 201,Invalid join date
 201,Invalid or earlier last purchase date
-202,Phone number too short
-202,Invalid join date
 202,Invalid or earlier last purchase date
-203,Phone number too short
-203,Invalid join date
 203,Invalid or earlier last purchase date
-204,Phone number too short
-204,Invalid join date
-204,Invalid or earlier last purchase date
-205,Phone number too short
 205,Invalid join date
 205,Invalid or earlier last purchase date
-206,Phone number too short
-206,Invalid join date
 206,Invalid or earlier last purchase date
 207,Phone number too short
 207,Invalid join date
 207,Invalid or earlier last purchase date
-208,Phone number too short
-208,Invalid join date
 208,Invalid or earlier last purchase date
 209,Phone number too short
 209,Invalid join date
 209,Invalid or earlier last purchase date
-210,Phone number too short
-210,Invalid join date
 210,Invalid or earlier last purchase date
-211,Phone number too short
-211,Invalid join date
 211,Invalid or earlier last purchase date
-212,Phone number too short
-212,Invalid join date
 212,Invalid or earlier last purchase date
 213,Phone number too short
-213,Invalid join date
-213,Invalid or earlier last purchase date
-214,Phone number too short
-214,Invalid join date
-214,Invalid or earlier last purchase date
-215,Phone number too short
-215,Invalid join date
-215,Invalid or earlier last purchase date
 216,Invalid age
-216,Phone number too short
 216,Invalid join date
-216,Invalid or earlier last purchase date
-217,Phone number too short
-217,Invalid join date
-217,Invalid or earlier last purchase date
 218,Invalid gender
-218,Phone number too short
-218,Invalid join date
-218,Invalid or earlier last purchase date
-219,Phone number too short
-219,Invalid join date
-219,Invalid or earlier last purchase date
-220,Phone number too short
 220,Invalid join date
-220,Invalid or earlier last purchase date
-221,Phone number too short
-221,Invalid join date
 221,Invalid or earlier last purchase date
-222,Phone number too short
-222,Invalid join date
-222,Invalid or earlier last purchase date
 223,Phone number too short
-223,Invalid join date
-223,Invalid or earlier last purchase date
-224,Phone number too short
-224,Invalid join date
 224,Invalid or earlier last purchase date
-225,Phone number too short
-225,Invalid join date
 225,Invalid or earlier last purchase date
-226,Phone number too short
-226,Invalid join date
 226,Invalid or earlier last purchase date
-227,Phone number too short
 227,Invalid join date
-227,Invalid or earlier last purchase date
 228,Invalid age
 228,Invalid gender
-228,Phone number too short
 228,Invalid join date
-228,Invalid or earlier last purchase date
-229,Phone number too short
-229,Invalid join date
 229,Invalid or earlier last purchase date
-230,Phone number too short
-230,Invalid join date
 230,Invalid or earlier last purchase date
-231,Phone number too short
-231,Invalid join date
-231,Invalid or earlier last purchase date
-232,Phone number too short
-232,Invalid join date
-232,Invalid or earlier last purchase date
-233,Phone number too short
-233,Invalid join date
-233,Invalid or earlier last purchase date
 234,Invalid age
-234,Phone number too short
-234,Invalid join date
-234,Invalid or earlier last purchase date
-235,Phone number too short
 235,Invalid join date
-235,Invalid or earlier last purchase date
 236,Phone number too short
-236,Invalid join date
-236,Invalid or earlier last purchase date
-237,Phone number too short
 237,Invalid join date
-237,Invalid or earlier last purchase date
-238,Phone number too short
-238,Invalid join date
 238,Invalid or earlier last purchase date
-239,Phone number too short
 239,Invalid join date
 239,Invalid or earlier last purchase date
-240,Phone number too short
 240,Invalid join date
-240,Invalid or earlier last purchase date
-241,Phone number too short
-241,Invalid join date
 241,Invalid or earlier last purchase date
-242,Phone number too short
-242,Invalid join date
-242,Invalid or earlier last purchase date
 243,Invalid gender
-243,Phone number too short
 243,Invalid join date
-243,Invalid or earlier last purchase date
-244,Phone number too short
-244,Invalid join date
-244,Invalid or earlier last purchase date
-245,Phone number too short
-245,Invalid join date
-245,Invalid or earlier last purchase date
-246,Phone number too short
-246,Invalid join date
 246,Invalid or earlier last purchase date
-247,Phone number too short
 247,Invalid join date
 247,Invalid or earlier last purchase date
 248,Invalid age
-248,Phone number too short
-248,Invalid join date
 248,Invalid or earlier last purchase date
-249,Phone number too short
 249,Invalid join date
-249,Invalid or earlier last purchase date
 250,Invalid age
-250,Phone number too short
-250,Invalid join date
-250,Invalid or earlier last purchase date
-251,Phone number too short
-251,Invalid join date
 251,Invalid or earlier last purchase date
-252,Phone number too short
-252,Invalid join date
 252,Invalid or earlier last purchase date
-253,Phone number too short
-253,Invalid join date
 253,Invalid or earlier last purchase date
-254,Phone number too short
 254,Invalid join date
 254,Invalid or earlier last purchase date
 255,Invalid age
 255,Invalid gender
-255,Phone number too short
 255,Invalid join date
-255,Invalid or earlier last purchase date
-256,Phone number too short
 256,Invalid join date
 256,Invalid or earlier last purchase date
-257,Phone number too short
-257,Invalid join date
-257,Invalid or earlier last purchase date
 258,Invalid gender
-258,Phone number too short
 258,Invalid join date
 258,Invalid or earlier last purchase date
-259,Phone number too short
-259,Invalid join date
 259,Invalid or earlier last purchase date
 260,Invalid age
 260,Invalid gender
-260,Phone number too short
 260,Invalid join date
-260,Invalid or earlier last purchase date
-261,Phone number too short
-261,Invalid join date
 261,Invalid or earlier last purchase date
-262,Phone number too short
-262,Invalid join date
 262,Invalid or earlier last purchase date
-263,Phone number too short
 263,Invalid join date
-263,Invalid or earlier last purchase date
-264,Phone number too short
 264,Invalid join date
 264,Invalid or earlier last purchase date
-265,Phone number too short
 265,Invalid join date
 265,Invalid or earlier last purchase date
-266,Phone number too short
 266,Invalid join date
-266,Invalid or earlier last purchase date
-267,Phone number too short
 267,Invalid join date
-267,Invalid or earlier last purchase date
-268,Phone number too short
 268,Invalid join date
 268,Invalid or earlier last purchase date
-269,Phone number too short
-269,Invalid join date
-269,Invalid or earlier last purchase date
 270,Invalid gender
 270,Phone number too short
 270,Invalid join date
-270,Invalid or earlier last purchase date
 271,Phone number too short
 271,Invalid join date
-271,Invalid or earlier last purchase date
-272,Phone number too short
 272,Invalid join date
 272,Invalid or earlier last purchase date
-273,Phone number too short
 273,Invalid join date
 273,Invalid or earlier last purchase date
 274,Invalid age
-274,Phone number too short
-274,Invalid join date
 274,Invalid or earlier last purchase date
 275,Phone number too short
 275,Invalid join date
-275,Invalid or earlier last purchase date
 276,Invalid gender
-276,Phone number too short
-276,Invalid join date
 276,Invalid or earlier last purchase date
 277,Invalid age
-277,Phone number too short
-277,Invalid join date
-277,Invalid or earlier last purchase date
-278,Phone number too short
-278,Invalid join date
 278,Invalid or earlier last purchase date
-279,Phone number too short
 279,Invalid join date
-279,Invalid or earlier last purchase date
-280,Phone number too short
-280,Invalid join date
 280,Invalid or earlier last purchase date
-281,Phone number too short
-281,Invalid join date
 281,Invalid or earlier last purchase date
 282,Invalid gender
-282,Phone number too short
-282,Invalid join date
 282,Invalid or earlier last purchase date
-283,Phone number too short
-283,Invalid join date
 283,Invalid or earlier last purchase date
-284,Phone number too short
 284,Invalid join date
 284,Invalid or earlier last purchase date
-285,Phone number too short
 285,Invalid join date
 285,Invalid or earlier last purchase date
 286,Invalid age
-286,Phone number too short
 286,Invalid join date
-286,Invalid or earlier last purchase date
-287,Phone number too short
 287,Invalid join date
-287,Invalid or earlier last purchase date
 288,Invalid gender
-288,Phone number too short
-288,Invalid join date
 288,Invalid or earlier last purchase date
-289,Phone number too short
-289,Invalid join date
-289,Invalid or earlier last purchase date
-290,Phone number too short
 290,Invalid join date
 290,Invalid or earlier last purchase date
-291,Phone number too short
-291,Invalid join date
-291,Invalid or earlier last purchase date
-292,Phone number too short
-292,Invalid join date
 292,Invalid or earlier last purchase date
-293,Phone number too short
-293,Invalid join date
 293,Invalid or earlier last purchase date
-294,Phone number too short
-294,Invalid join date
-294,Invalid or earlier last purchase date
 295,Invalid gender
-295,Phone number too short
-295,Invalid join date
 295,Invalid or earlier last purchase date
-296,Phone number too short
-296,Invalid join date
-296,Invalid or earlier last purchase date
-297,Phone number too short
 297,Invalid join date
-297,Invalid or earlier last purchase date
 298,Invalid age
-298,Phone number too short
 298,Invalid join date
 298,Invalid or earlier last purchase date
-299,Phone number too short
-299,Invalid join date
-299,Invalid or earlier last purchase date
 300,Phone number too short
-300,Invalid join date
-300,Invalid or earlier last purchase date
 301,Invalid gender
-301,Phone number too short
-301,Invalid join date
 301,Invalid or earlier last purchase date
 302,Phone number too short
-302,Invalid join date
 302,Invalid or earlier last purchase date
-303,Phone number too short
 303,Invalid join date
 303,Invalid or earlier last purchase date
-304,Phone number too short
-304,Invalid join date
 304,Invalid or earlier last purchase date
 305,Invalid age
 305,Phone number too short
-305,Invalid join date
-305,Invalid or earlier last purchase date
-306,Phone number too short
-306,Invalid join date
-306,Invalid or earlier last purchase date
-307,Phone number too short
-307,Invalid join date
 307,Invalid or earlier last purchase date
-308,Phone number too short
-308,Invalid join date
 308,Invalid or earlier last purchase date
 309,Invalid gender
-309,Phone number too short
 309,Invalid join date
 309,Invalid or earlier last purchase date
-310,Phone number too short
-310,Invalid join date
 310,Invalid or earlier last purchase date
-311,Phone number too short
-311,Invalid join date
 311,Invalid or earlier last purchase date
-312,Phone number too short
-312,Invalid join date
-312,Invalid or earlier last purchase date
-313,Phone number too short
 313,Invalid join date
 313,Invalid or earlier last purchase date
-314,Phone number too short
-314,Invalid join date
 314,Invalid or earlier last purchase date
 315,Invalid gender
-315,Phone number too short
 315,Invalid join date
 315,Invalid or earlier last purchase date
-316,Phone number too short
 316,Invalid join date
-316,Invalid or earlier last purchase date
 317,Invalid age
-317,Phone number too short
 317,Invalid join date
-317,Invalid or earlier last purchase date
-318,Phone number too short
 318,Invalid join date
 318,Invalid or earlier last purchase date
-319,Phone number too short
-319,Invalid join date
 319,Invalid or earlier last purchase date
-320,Phone number too short
-320,Invalid join date
 320,Invalid or earlier last purchase date
-321,Phone number too short
-321,Invalid join date
-321,Invalid or earlier last purchase date
-322,Phone number too short
-322,Invalid join date
 322,Invalid or earlier last purchase date
-323,Phone number too short
-323,Invalid join date
 323,Invalid or earlier last purchase date
-324,Phone number too short
-324,Invalid join date
-324,Invalid or earlier last purchase date
-325,Phone number too short
-325,Invalid join date
-325,Invalid or earlier last purchase date
-326,Phone number too short
 326,Invalid join date
-326,Invalid or earlier last purchase date
-327,Phone number too short
-327,Invalid join date
 327,Invalid or earlier last purchase date
-328,Phone number too short
-328,Invalid join date
 328,Invalid or earlier last purchase date
 329,Invalid gender
-329,Phone number too short
-329,Invalid join date
-329,Invalid or earlier last purchase date
 330,Phone number too short
 330,Invalid join date
-330,Invalid or earlier last purchase date
-331,Phone number too short
-331,Invalid join date
-331,Invalid or earlier last purchase date
-332,Phone number too short
 332,Invalid join date
-332,Invalid or earlier last purchase date
-333,Phone number too short
-333,Invalid join date
-333,Invalid or earlier last purchase date
-334,Phone number too short
-334,Invalid join date
 334,Invalid or earlier last purchase date
-335,Phone number too short
 335,Invalid join date
-335,Invalid or earlier last purchase date
 336,Invalid gender
 336,Phone number too short
-336,Invalid join date
-336,Invalid or earlier last purchase date
-337,Phone number too short
-337,Invalid join date
 337,Invalid or earlier last purchase date
-338,Phone number too short
-338,Invalid join date
 338,Invalid or earlier last purchase date
-339,Phone number too short
 339,Invalid join date
-339,Invalid or earlier last purchase date
-340,Phone number too short
-340,Invalid join date
-340,Invalid or earlier last purchase date
-341,Phone number too short
-341,Invalid join date
-341,Invalid or earlier last purchase date
-342,Phone number too short
 342,Invalid join date
-342,Invalid or earlier last purchase date
-343,Phone number too short
 343,Invalid join date
 343,Invalid or earlier last purchase date
 344,Phone number too short
 344,Invalid join date
-344,Invalid or earlier last purchase date
-345,Phone number too short
-345,Invalid join date
 345,Invalid or earlier last purchase date
-346,Phone number too short
-346,Invalid join date
 346,Invalid or earlier last purchase date
-347,Phone number too short
-347,Invalid join date
 347,Invalid or earlier last purchase date
-348,Phone number too short
-348,Invalid join date
-348,Invalid or earlier last purchase date
-349,Phone number too short
 349,Invalid join date
 349,Invalid or earlier last purchase date
 350,Phone number too short
 350,Invalid join date
-350,Invalid or earlier last purchase date
-351,Phone number too short
 351,Invalid join date
-351,Invalid or earlier last purchase date
-352,Phone number too short
-352,Invalid join date
-352,Invalid or earlier last purchase date
 353,Invalid gender
-353,Phone number too short
-353,Invalid join date
 353,Invalid or earlier last purchase date
-354,Phone number too short
 354,Invalid join date
-354,Invalid or earlier last purchase date
-355,Phone number too short
 355,Invalid join date
 355,Invalid or earlier last purchase date
-356,Phone number too short
-356,Invalid join date
 356,Invalid or earlier last purchase date
-357,Phone number too short
-357,Invalid join date
 357,Invalid or earlier last purchase date
 358,Invalid age
-358,Phone number too short
 358,Invalid join date
 358,Invalid or earlier last purchase date
-359,Phone number too short
 359,Invalid join date
-359,Invalid or earlier last purchase date
-360,Phone number too short
-360,Invalid join date
 360,Invalid or earlier last purchase date
 361,Invalid age
-361,Phone number too short
-361,Invalid join date
 361,Invalid or earlier last purchase date
-362,Phone number too short
-362,Invalid join date
-362,Invalid or earlier last purchase date
 363,Invalid age
-363,Phone number too short
 363,Invalid join date
 363,Invalid or earlier last purchase date
-364,Phone number too short
-364,Invalid join date
-364,Invalid or earlier last purchase date
 365,Invalid age
-365,Phone number too short
-365,Invalid join date
-365,Invalid or earlier last purchase date
-366,Phone number too short
 366,Invalid join date
-366,Invalid or earlier last purchase date
 367,Phone number too short
-367,Invalid join date
 367,Invalid or earlier last purchase date
 368,Invalid gender
-368,Phone number too short
-368,Invalid join date
-368,Invalid or earlier last purchase date
-369,Phone number too short
 369,Invalid join date
-369,Invalid or earlier last purchase date
-370,Phone number too short
 370,Invalid join date
-370,Invalid or earlier last purchase date
-371,Phone number too short
 371,Invalid join date
 371,Invalid or earlier last purchase date
-372,Phone number too short
 372,Invalid join date
 372,Invalid or earlier last purchase date
 373,Invalid age
 373,Invalid gender
 373,Phone number too short
 373,Invalid join date
-373,Invalid or earlier last purchase date
-374,Phone number too short
 374,Invalid join date
-374,Invalid or earlier last purchase date
-375,Phone number too short
-375,Invalid join date
-375,Invalid or earlier last purchase date
-376,Phone number too short
 376,Invalid join date
-376,Invalid or earlier last purchase date
-377,Phone number too short
-377,Invalid join date
-377,Invalid or earlier last purchase date
-378,Phone number too short
-378,Invalid join date
 378,Invalid or earlier last purchase date
 379,Invalid gender
-379,Phone number too short
 379,Invalid join date
-379,Invalid or earlier last purchase date
-380,Phone number too short
-380,Invalid join date
-380,Invalid or earlier last purchase date
-381,Phone number too short
-381,Invalid join date
 381,Invalid or earlier last purchase date
 382,Phone number too short
-382,Invalid join date
 382,Invalid or earlier last purchase date
-383,Phone number too short
 383,Invalid join date
-383,Invalid or earlier last purchase date
-384,Phone number too short
-384,Invalid join date
-384,Invalid or earlier last purchase date
 385,Invalid gender
-385,Phone number too short
 385,Invalid join date
-385,Invalid or earlier last purchase date
-386,Phone number too short
 386,Invalid join date
-386,Invalid or earlier last purchase date
-387,Phone number too short
 387,Invalid join date
-387,Invalid or earlier last purchase date
-388,Phone number too short
 388,Invalid join date
-388,Invalid or earlier last purchase date
 389,Invalid gender
-389,Phone number too short
 389,Invalid join date
 389,Invalid or earlier last purchase date
-390,Phone number too short
-390,Invalid join date
 390,Invalid or earlier last purchase date
-391,Phone number too short
-391,Invalid join date
-391,Invalid or earlier last purchase date
-392,Phone number too short
-392,Invalid join date
-392,Invalid or earlier last purchase date
 393,Phone number too short
 393,Invalid join date
 393,Invalid or earlier last purchase date
-394,Phone number too short
 394,Invalid join date
-394,Invalid or earlier last purchase date
 395,Invalid age
-395,Phone number too short
-395,Invalid join date
 395,Invalid or earlier last purchase date
 396,Invalid age
-396,Phone number too short
-396,Invalid join date
-396,Invalid or earlier last purchase date
-397,Phone number too short
-397,Invalid join date
 397,Invalid or earlier last purchase date
-398,Phone number too short
-398,Invalid join date
-398,Invalid or earlier last purchase date
-399,Phone number too short
 399,Invalid join date
 399,Invalid or earlier last purchase date
-400,Phone number too short
-400,Invalid join date
 400,Invalid or earlier last purchase date
-401,Phone number too short
 401,Invalid join date
-401,Invalid or earlier last purchase date
-402,Phone number too short
-402,Invalid join date
 402,Invalid or earlier last purchase date
-403,Phone number too short
 403,Invalid join date
-403,Invalid or earlier last purchase date
-404,Phone number too short
 404,Invalid join date
-404,Invalid or earlier last purchase date
-405,Phone number too short
-405,Invalid join date
 405,Invalid or earlier last purchase date
-406,Phone number too short
 406,Invalid join date
-406,Invalid or earlier last purchase date
-407,Phone number too short
-407,Invalid join date
 407,Invalid or earlier last purchase date
-408,Phone number too short
 408,Invalid join date
 408,Invalid or earlier last purchase date
 409,Invalid age
-409,Phone number too short
-409,Invalid join date
 409,Invalid or earlier last purchase date
-410,Phone number too short
 410,Invalid join date
-410,Invalid or earlier last purchase date
 411,Invalid gender
-411,Phone number too short
-411,Invalid join date
-411,Invalid or earlier last purchase date
-412,Phone number too short
 412,Invalid join date
 412,Invalid or earlier last purchase date
-413,Phone number too short
-413,Invalid join date
-413,Invalid or earlier last purchase date
 414,Phone number too short
-414,Invalid join date
-414,Invalid or earlier last purchase date
-415,Phone number too short
-415,Invalid join date
-415,Invalid or earlier last purchase date
-416,Phone number too short
-416,Invalid join date
 416,Invalid or earlier last purchase date
-417,Phone number too short
-417,Invalid join date
 417,Invalid or earlier last purchase date
-418,Phone number too short
 418,Invalid join date
 418,Invalid or earlier last purchase date
 419,Invalid gender
 419,Phone number too short
-419,Invalid join date
 419,Invalid or earlier last purchase date
-420,Phone number too short
-420,Invalid join date
-420,Invalid or earlier last purchase date
 421,Phone number too short
-421,Invalid join date
 421,Invalid or earlier last purchase date
 422,Invalid age
-422,Phone number too short
-422,Invalid join date
 422,Invalid or earlier last purchase date
-423,Phone number too short
 423,Invalid join date
-423,Invalid or earlier last purchase date
-424,Phone number too short
-424,Invalid join date
 424,Invalid or earlier last purchase date
-425,Phone number too short
-425,Invalid join date
-425,Invalid or earlier last purchase date
 426,Invalid age
 426,Invalid gender
-426,Phone number too short
-426,Invalid join date
 426,Invalid or earlier last purchase date
-427,Phone number too short
-427,Invalid join date
 427,Invalid or earlier last purchase date
 428,Invalid gender
-428,Phone number too short
 428,Invalid join date
-428,Invalid or earlier last purchase date
-429,Phone number too short
 429,Invalid join date
 429,Invalid or earlier last purchase date
 430,Invalid gender
-430,Phone number too short
-430,Invalid join date
 430,Invalid or earlier last purchase date
-431,Phone number too short
 431,Invalid join date
-431,Invalid or earlier last purchase date
-432,Phone number too short
 432,Invalid join date
-432,Invalid or earlier last purchase date
-433,Phone number too short
 433,Invalid join date
-433,Invalid or earlier last purchase date
-434,Phone number too short
 434,Invalid join date
 434,Invalid or earlier last purchase date
-435,Phone number too short
 435,Invalid join date
-435,Invalid or earlier last purchase date
-436,Phone number too short
-436,Invalid join date
 436,Invalid or earlier last purchase date
-437,Phone number too short
 437,Invalid join date
-437,Invalid or earlier last purchase date
-438,Phone number too short
-438,Invalid join date
-438,Invalid or earlier last purchase date
-439,Phone number too short
-439,Invalid join date
-439,Invalid or earlier last purchase date
 440,Invalid gender
-440,Phone number too short
-440,Invalid join date
 440,Invalid or earlier last purchase date
-441,Phone number too short
-441,Invalid join date
-441,Invalid or earlier last purchase date
-442,Phone number too short
-442,Invalid join date
 442,Invalid or earlier last purchase date
 443,Phone number too short
-443,Invalid join date
-443,Invalid or earlier last purchase date
-444,Phone number too short
-444,Invalid join date
 444,Invalid or earlier last purchase date
-445,Phone number too short
-445,Invalid join date
 445,Invalid or earlier last purchase date
 446,Invalid gender
-446,Phone number too short
-446,Invalid join date
 446,Invalid or earlier last purchase date
 447,Phone number too short
-447,Invalid join date
-447,Invalid or earlier last purchase date
-448,Phone number too short
-448,Invalid join date
 448,Invalid or earlier last purchase date
-449,Phone number too short
-449,Invalid join date
 449,Invalid or earlier last purchase date
-450,Phone number too short
 450,Invalid join date
-450,Invalid or earlier last purchase date
 451,Phone number too short
 451,Invalid join date
 451,Invalid or earlier last purchase date
-452,Phone number too short
-452,Invalid join date
-452,Invalid or earlier last purchase date
-453,Phone number too short
-453,Invalid join date
 453,Invalid or earlier last purchase date
-454,Phone number too short
-454,Invalid join date
 454,Invalid or earlier last purchase date
-455,Phone number too short
 455,Invalid join date
 455,Invalid or earlier last purchase date
-456,Phone number too short
-456,Invalid join date
 456,Invalid or earlier last purchase date
-457,Phone number too short
 457,Invalid join date
 457,Invalid or earlier last purchase date
-458,Phone number too short
-458,Invalid join date
 458,Invalid or earlier last purchase date
-459,Phone number too short
 459,Invalid join date
 459,Invalid or earlier last purchase date
 460,Invalid age
-460,Phone number too short
 460,Invalid join date
 460,Invalid or earlier last purchase date
-461,Phone number too short
-461,Invalid join date
 461,Invalid or earlier last purchase date
-462,Phone number too short
 462,Invalid join date
 462,Invalid or earlier last purchase date
-463,Phone number too short
 463,Invalid join date
 463,Invalid or earlier last purchase date
-464,Phone number too short
 464,Invalid join date
 464,Invalid or earlier last purchase date
 465,Phone number too short
-465,Invalid join date
-465,Invalid or earlier last purchase date
-466,Phone number too short
-466,Invalid join date
-466,Invalid or earlier last purchase date
 467,Invalid gender
-467,Phone number too short
-467,Invalid join date
 467,Invalid or earlier last purchase date
 468,Invalid gender
-468,Phone number too short
-468,Invalid join date
 468,Invalid or earlier last purchase date
-469,Phone number too short
-469,Invalid join date
-469,Invalid or earlier last purchase date
 470,Invalid gender
-470,Phone number too short
-470,Invalid join date
 470,Invalid or earlier last purchase date
-471,Phone number too short
-471,Invalid join date
-471,Invalid or earlier last purchase date
-472,Phone number too short
-472,Invalid join date
 472,Invalid or earlier last purchase date
 473,Phone number too short
-473,Invalid join date
-473,Invalid or earlier last purchase date
-474,Phone number too short
-474,Invalid join date
 474,Invalid or earlier last purchase date
 475,Invalid gender
-475,Phone number too short
-475,Invalid join date
 475,Invalid or earlier last purchase date
-476,Phone number too short
-476,Invalid join date
 476,Invalid or earlier last purchase date
-477,Phone number too short
 477,Invalid join date
 477,Invalid or earlier last purchase date
-478,Phone number too short
-478,Invalid join date
 478,Invalid or earlier last purchase date
-479,Phone number too short
-479,Invalid join date
 479,Invalid or earlier last purchase date
-480,Phone number too short
 480,Invalid join date
-480,Invalid or earlier last purchase date
-481,Phone number too short
-481,Invalid join date
-481,Invalid or earlier last purchase date
-482,Phone number too short
 482,Invalid join date
-482,Invalid or earlier last purchase date
 483,Invalid age
 483,Invalid gender
 483,Phone number too short
-483,Invalid join date
 483,Invalid or earlier last purchase date
 484,Phone number too short
-484,Invalid join date
-484,Invalid or earlier last purchase date
-485,Phone number too short
-485,Invalid join date
-485,Invalid or earlier last purchase date
-486,Phone number too short
 486,Invalid join date
-486,Invalid or earlier last purchase date
-487,Phone number too short
 487,Invalid join date
 487,Invalid or earlier last purchase date
 488,Invalid gender
-488,Phone number too short
-488,Invalid join date
 488,Invalid or earlier last purchase date
 489,Phone number too short
-489,Invalid join date
 489,Invalid or earlier last purchase date
-490,Phone number too short
 490,Invalid join date
 490,Invalid or earlier last purchase date
-491,Phone number too short
 491,Invalid join date
-491,Invalid or earlier last purchase date
-492,Phone number too short
 492,Invalid join date
-492,Invalid or earlier last purchase date
 493,Phone number too short
-493,Invalid join date
-493,Invalid or earlier last purchase date
 494,Invalid age
-494,Phone number too short
-494,Invalid join date
 494,Invalid or earlier last purchase date
 495,Invalid gender
-495,Phone number too short
-495,Invalid join date
 495,Invalid or earlier last purchase date
-496,Phone number too short
-496,Invalid join date
 496,Invalid or earlier last purchase date
 497,Invalid age
 497,Invalid gender
-497,Phone number too short
 497,Invalid join date
-497,Invalid or earlier last purchase date
-498,Phone number too short
-498,Invalid join date
 498,Invalid or earlier last purchase date
-499,Phone number too short
-499,Invalid join date
 499,Invalid or earlier last purchase date
 500,Invalid gender
-500,Phone number too short
 500,Invalid join date
-500,Invalid or earlier last purchase date
-501,Phone number too short
 501,Invalid join date
 501,Invalid or earlier last purchase date
-502,Phone number too short
 502,Invalid join date
-502,Invalid or earlier last purchase date
 503,Invalid age
 503,Phone number too short
 503,Invalid join date
-503,Invalid or earlier last purchase date
-504,Phone number too short
 504,Invalid join date
-504,Invalid or earlier last purchase date
-505,Phone number too short
-505,Invalid join date
 505,Invalid or earlier last purchase date
-506,Phone number too short
 506,Invalid join date
 506,Invalid or earlier last purchase date
-507,Phone number too short
-507,Invalid join date
 507,Invalid or earlier last purchase date
 508,Invalid gender
-508,Phone number too short
-508,Invalid join date
-508,Invalid or earlier last purchase date
-509,Phone number too short
-509,Invalid join date
 509,Invalid or earlier last purchase date
-510,Phone number too short
 510,Invalid join date
 510,Invalid or earlier last purchase date
 511,Invalid gender
-511,Phone number too short
-511,Invalid join date
 511,Invalid or earlier last purchase date
-512,Phone number too short
-512,Invalid join date
 512,Invalid or earlier last purchase date
-513,Phone number too short
 513,Invalid join date
 513,Invalid or earlier last purchase date
-514,Phone number too short
 514,Invalid join date
-514,Invalid or earlier last purchase date
 515,Phone number too short
-515,Invalid join date
-515,Invalid or earlier last purchase date
-516,Phone number too short
-516,Invalid join date
 516,Invalid or earlier last purchase date
-517,Phone number too short
-517,Invalid join date
-517,Invalid or earlier last purchase date
-518,Phone number too short
-518,Invalid join date
 518,Invalid or earlier last purchase date
-519,Phone number too short
-519,Invalid join date
 519,Invalid or earlier last purchase date
 520,Invalid age
-520,Phone number too short
-520,Invalid join date
 520,Invalid or earlier last purchase date
-521,Phone number too short
-521,Invalid join date
-521,Invalid or earlier last purchase date
-522,Phone number too short
-522,Invalid join date
-522,Invalid or earlier last purchase date
-523,Phone number too short
 523,Invalid join date
-523,Invalid or earlier last purchase date
-524,Phone number too short
-524,Invalid join date
 524,Invalid or earlier last purchase date
-525,Phone number too short
-525,Invalid join date
 525,Invalid or earlier last purchase date
-526,Phone number too short
-526,Invalid join date
-526,Invalid or earlier last purchase date
 527,Phone number too short
-527,Invalid join date
-527,Invalid or earlier last purchase date
-528,Phone number too short
-528,Invalid join date
-528,Invalid or earlier last purchase date
 529,Invalid gender
-529,Phone number too short
-529,Invalid join date
 529,Invalid or earlier last purchase date
-530,Phone number too short
-530,Invalid join date
 530,Invalid or earlier last purchase date
-531,Phone number too short
-531,Invalid join date
 531,Invalid or earlier last purchase date
 532,Phone number too short
-532,Invalid join date
 532,Invalid or earlier last purchase date
 533,Invalid age
-533,Phone number too short
 533,Invalid join date
-533,Invalid or earlier last purchase date
-534,Phone number too short
-534,Invalid join date
 534,Invalid or earlier last purchase date
-535,Phone number too short
-535,Invalid join date
-535,Invalid or earlier last purchase date
-536,Phone number too short
 536,Invalid join date
-536,Invalid or earlier last purchase date
-537,Phone number too short
-537,Invalid join date
 537,Invalid or earlier last purchase date
-538,Phone number too short
 538,Invalid join date
-538,Invalid or earlier last purchase date
 539,Phone number too short
 539,Invalid join date
-539,Invalid or earlier last purchase date
-540,Phone number too short
 540,Invalid join date
-540,Invalid or earlier last purchase date
-541,Phone number too short
 541,Invalid join date
-541,Invalid or earlier last purchase date
-542,Phone number too short
-542,Invalid join date
 542,Invalid or earlier last purchase date
 543,Phone number too short
-543,Invalid join date
 543,Invalid or earlier last purchase date
-544,Phone number too short
 544,Invalid join date
 544,Invalid or earlier last purchase date
-545,Phone number too short
 545,Invalid join date
-545,Invalid or earlier last purchase date
 546,Phone number too short
-546,Invalid join date
-546,Invalid or earlier last purchase date
-547,Phone number too short
-547,Invalid join date
 547,Invalid or earlier last purchase date
-548,Phone number too short
-548,Invalid join date
 548,Invalid or earlier last purchase date
-549,Phone number too short
 549,Invalid join date
-549,Invalid or earlier last purchase date
-550,Phone number too short
 550,Invalid join date
 550,Invalid or earlier last purchase date
-551,Phone number too short
 551,Invalid join date
-551,Invalid or earlier last purchase date
-552,Phone number too short
-552,Invalid join date
-552,Invalid or earlier last purchase date
-553,Phone number too short
-553,Invalid join date
 553,Invalid or earlier last purchase date
-554,Phone number too short
-554,Invalid join date
 554,Invalid or earlier last purchase date
-555,Phone number too short
-555,Invalid join date
-555,Invalid or earlier last purchase date
-556,Phone number too short
 556,Invalid join date
 556,Invalid or earlier last purchase date
 557,Invalid age
-557,Phone number too short
-557,Invalid join date
 557,Invalid or earlier last purchase date
-558,Phone number too short
 558,Invalid join date
-558,Invalid or earlier last purchase date
-559,Phone number too short
-559,Invalid join date
 559,Invalid or earlier last purchase date
-560,Phone number too short
 560,Invalid join date
 560,Invalid or earlier last purchase date
 561,Phone number too short
-561,Invalid join date
 561,Invalid or earlier last purchase date
-562,Phone number too short
 562,Invalid join date
 562,Invalid or earlier last purchase date
-563,Phone number too short
 563,Invalid join date
 563,Invalid or earlier last purchase date
 564,Invalid age
-564,Phone number too short
 564,Invalid join date
 564,Invalid or earlier last purchase date
-565,Phone number too short
 565,Invalid join date
-565,Invalid or earlier last purchase date
-566,Phone number too short
-566,Invalid join date
 566,Invalid or earlier last purchase date
-567,Phone number too short
 567,Invalid join date
-567,Invalid or earlier last purchase date
 568,Invalid gender
 568,Phone number too short
-568,Invalid join date
-568,Invalid or earlier last purchase date
-569,Phone number too short
-569,Invalid join date
-569,Invalid or earlier last purchase date
-570,Phone number too short
-570,Invalid join date
-570,Invalid or earlier last purchase date
-571,Phone number too short
-571,Invalid join date
-571,Invalid or earlier last purchase date
-572,Phone number too short
-572,Invalid join date
-572,Invalid or earlier last purchase date
-573,Phone number too short
-573,Invalid join date
 573,Invalid or earlier last purchase date
 574,Phone number too short
-574,Invalid join date
 574,Invalid or earlier last purchase date
-575,Phone number too short
-575,Invalid join date
 575,Invalid or earlier last purchase date
 576,Phone number too short
-576,Invalid join date
 576,Invalid or earlier last purchase date
 577,Invalid age
 577,Phone number too short
 577,Invalid join date
 577,Invalid or earlier last purchase date
-578,Phone number too short
 578,Invalid join date
 578,Invalid or earlier last purchase date
 579,Phone number too short
-579,Invalid join date
 579,Invalid or earlier last purchase date
-580,Phone number too short
 580,Invalid join date
-580,Invalid or earlier last purchase date
-581,Phone number too short
-581,Invalid join date
 581,Invalid or earlier last purchase date
 582,Phone number too short
 582,Invalid join date
-582,Invalid or earlier last purchase date
-583,Phone number too short
 583,Invalid join date
 583,Invalid or earlier last purchase date
-584,Phone number too short
-584,Invalid join date
 584,Invalid or earlier last purchase date
-585,Phone number too short
-585,Invalid join date
 585,Invalid or earlier last purchase date
 586,Invalid age
-586,Phone number too short
-586,Invalid join date
 586,Invalid or earlier last purchase date
 587,Phone number too short
-587,Invalid join date
-587,Invalid or earlier last purchase date
-588,Phone number too short
-588,Invalid join date
 588,Invalid or earlier last purchase date
-589,Phone number too short
 589,Invalid join date
 589,Invalid or earlier last purchase date
-590,Phone number too short
-590,Invalid join date
-590,Invalid or earlier last purchase date
-591,Phone number too short
-591,Invalid join date
-591,Invalid or earlier last purchase date
-592,Phone number too short
 592,Invalid join date
-592,Invalid or earlier last purchase date
-593,Phone number too short
-593,Invalid join date
-593,Invalid or earlier last purchase date
 594,Invalid gender
-594,Phone number too short
-594,Invalid join date
 594,Invalid or earlier last purchase date
-595,Phone number too short
-595,Invalid join date
 595,Invalid or earlier last purchase date
 596,Invalid age
-596,Phone number too short
 596,Invalid join date
 596,Invalid or earlier last purchase date
 597,Invalid age
-597,Phone number too short
-597,Invalid join date
 597,Invalid or earlier last purchase date
-598,Phone number too short
 598,Invalid join date
 598,Invalid or earlier last purchase date
 599,Invalid age
-599,Phone number too short
 599,Invalid join date
 599,Invalid or earlier last purchase date
 600,Invalid gender
-600,Phone number too short
 600,Invalid join date
-600,Invalid or earlier last purchase date
-601,Phone number too short
 601,Invalid join date
-601,Invalid or earlier last purchase date
-602,Phone number too short
 602,Invalid join date
-602,Invalid or earlier last purchase date
 603,Invalid age
-603,Phone number too short
 603,Invalid join date
-603,Invalid or earlier last purchase date
 604,Invalid age
-604,Phone number too short
 604,Invalid join date
-604,Invalid or earlier last purchase date
-605,Phone number too short
-605,Invalid join date
-605,Invalid or earlier last purchase date
-606,Phone number too short
-606,Invalid join date
-606,Invalid or earlier last purchase date
 607,Phone number too short
 607,Invalid join date
 607,Invalid or earlier last purchase date
-608,Phone number too short
-608,Invalid join date
 608,Invalid or earlier last purchase date
-609,Phone number too short
-609,Invalid join date
 609,Invalid or earlier last purchase date
-610,Phone number too short
-610,Invalid join date
 610,Invalid or earlier last purchase date
-611,Phone number too short
 611,Invalid join date
 611,Invalid or earlier last purchase date
 612,Phone number too short
-612,Invalid join date
-612,Invalid or earlier last purchase date
-613,Phone number too short
-613,Invalid join date
 613,Invalid or earlier last purchase date
-614,Phone number too short
-614,Invalid join date
-614,Invalid or earlier last purchase date
 615,Invalid gender
 615,Phone number too short
 615,Invalid join date
-615,Invalid or earlier last purchase date
-616,Phone number too short
 616,Invalid join date
 616,Invalid or earlier last purchase date
 617,Invalid age
 617,Invalid gender
-617,Phone number too short
-617,Invalid join date
 617,Invalid or earlier last purchase date
-618,Phone number too short
-618,Invalid join date
-618,Invalid or earlier last purchase date
-619,Phone number too short
-619,Invalid join date
 619,Invalid or earlier last purchase date
-620,Phone number too short
 620,Invalid join date
 620,Invalid or earlier last purchase date
-621,Phone number too short
 621,Invalid join date
 621,Invalid or earlier last purchase date
-622,Phone number too short
 622,Invalid join date
-622,Invalid or earlier last purchase date
-623,Phone number too short
-623,Invalid join date
 623,Invalid or earlier last purchase date
-624,Phone number too short
-624,Invalid join date
 624,Invalid or earlier last purchase date
-625,Phone number too short
-625,Invalid join date
-625,Invalid or earlier last purchase date
 626,Invalid age
-626,Phone number too short
 626,Invalid join date
 626,Invalid or earlier last purchase date
-627,Phone number too short
 627,Invalid join date
-627,Invalid or earlier last purchase date
-628,Phone number too short
-628,Invalid join date
-628,Invalid or earlier last purchase date
-629,Phone number too short
-629,Invalid join date
 629,Invalid or earlier last purchase date
 630,Phone number too short
-630,Invalid join date
 630,Invalid or earlier last purchase date
 631,Phone number too short
 631,Invalid join date
-631,Invalid or earlier last purchase date
 632,Phone number too short
-632,Invalid join date
 632,Invalid or earlier last purchase date
-633,Phone number too short
 633,Invalid join date
-633,Invalid or earlier last purchase date
-634,Phone number too short
-634,Invalid join date
-634,Invalid or earlier last purchase date
-635,Phone number too short
 635,Invalid join date
-635,Invalid or earlier last purchase date
-636,Phone number too short
-636,Invalid join date
 636,Invalid or earlier last purchase date
 637,Phone number too short
-637,Invalid join date
-637,Invalid or earlier last purchase date
-638,Phone number too short
 638,Invalid join date
-638,Invalid or earlier last purchase date
 639,Invalid gender
-639,Phone number too short
-639,Invalid join date
 639,Invalid or earlier last purchase date
 640,Invalid gender
-640,Phone number too short
 640,Invalid join date
 640,Invalid or earlier last purchase date
-641,Phone number too short
 641,Invalid join date
-641,Invalid or earlier last purchase date
 642,Invalid gender
 642,Phone number too short
-642,Invalid join date
-642,Invalid or earlier last purchase date
-643,Phone number too short
 643,Invalid join date
 643,Invalid or earlier last purchase date
 644,Invalid age
-644,Phone number too short
-644,Invalid join date
-644,Invalid or earlier last purchase date
-645,Phone number too short
-645,Invalid join date
 645,Invalid or earlier last purchase date
-646,Phone number too short
 646,Invalid join date
-646,Invalid or earlier last purchase date
 647,Phone number too short
 647,Invalid join date
 647,Invalid or earlier last purchase date
 648,Phone number too short
-648,Invalid join date
-648,Invalid or earlier last purchase date
-649,Phone number too short
 649,Invalid join date
-649,Invalid or earlier last purchase date
-650,Phone number too short
 650,Invalid join date
 650,Invalid or earlier last purchase date
-651,Phone number too short
 651,Invalid join date
 651,Invalid or earlier last purchase date
-652,Phone number too short
-652,Invalid join date
 652,Invalid or earlier last purchase date
 653,Phone number too short
-653,Invalid join date
-653,Invalid or earlier last purchase date
-654,Phone number too short
-654,Invalid join date
-654,Invalid or earlier last purchase date
-655,Phone number too short
-655,Invalid join date
 655,Invalid or earlier last purchase date
-656,Phone number too short
 656,Invalid join date
-656,Invalid or earlier last purchase date
 657,Phone number too short
-657,Invalid join date
-657,Invalid or earlier last purchase date
-658,Phone number too short
 658,Invalid join date
 658,Invalid or earlier last purchase date
 659,Phone number too short
 659,Invalid join date
-659,Invalid or earlier last purchase date
-660,Phone number too short
-660,Invalid join date
-660,Invalid or earlier last purchase date
-661,Phone number too short
-661,Invalid join date
 661,Invalid or earlier last purchase date
-662,Phone number too short
-662,Invalid join date
-662,Invalid or earlier last purchase date
-663,Phone number too short
-663,Invalid join date
-663,Invalid or earlier last purchase date
-664,Phone number too short
-664,Invalid join date
 664,Invalid or earlier last purchase date
-665,Phone number too short
 665,Invalid join date
 665,Invalid or earlier last purchase date
-666,Phone number too short
-666,Invalid join date
-666,Invalid or earlier last purchase date
-667,Phone number too short
-667,Invalid join date
-667,Invalid or earlier last purchase date
-668,Phone number too short
-668,Invalid join date
 668,Invalid or earlier last purchase date
-669,Phone number too short
 669,Invalid join date
-669,Invalid or earlier last purchase date
-670,Phone number too short
 670,Invalid join date
-670,Invalid or earlier last purchase date
-671,Phone number too short
-671,Invalid join date
 671,Invalid or earlier last purchase date
-672,Phone number too short
-672,Invalid join date
 672,Invalid or earlier last purchase date
-673,Phone number too short
-673,Invalid join date
 673,Invalid or earlier last purchase date
-674,Phone number too short
-674,Invalid join date
 674,Invalid or earlier last purchase date
-675,Phone number too short
 675,Invalid join date
-675,Invalid or earlier last purchase date
-676,Phone number too short
-676,Invalid join date
 676,Invalid or earlier last purchase date
-677,Phone number too short
-677,Invalid join date
 677,Invalid or earlier last purchase date
-678,Phone number too short
 678,Invalid join date
-678,Invalid or earlier last purchase date
-679,Phone number too short
-679,Invalid join date
 679,Invalid or earlier last purchase date
-680,Phone number too short
-680,Invalid join date
 680,Invalid or earlier last purchase date
 681,Phone number too short
 681,Invalid join date
 681,Invalid or earlier last purchase date
-682,Phone number too short
-682,Invalid join date
-682,Invalid or earlier last purchase date
-683,Phone number too short
 683,Invalid join date
-683,Invalid or earlier last purchase date
 684,Invalid gender
 684,Phone number too short
 684,Invalid join date
 684,Invalid or earlier last purchase date
 685,Phone number too short
-685,Invalid join date
 685,Invalid or earlier last purchase date
-686,Phone number too short
-686,Invalid join date
 686,Invalid or earlier last purchase date
-687,Phone number too short
-687,Invalid join date
 687,Invalid or earlier last purchase date
-688,Phone number too short
-688,Invalid join date
-688,Invalid or earlier last purchase date
 689,Invalid gender
-689,Phone number too short
 689,Invalid join date
-689,Invalid or earlier last purchase date
-690,Phone number too short
 690,Invalid join date
-690,Invalid or earlier last purchase date
-691,Phone number too short
-691,Invalid join date
-691,Invalid or earlier last purchase date
-692,Phone number too short
 692,Invalid join date
 692,Invalid or earlier last purchase date
-693,Phone number too short
-693,Invalid join date
 693,Invalid or earlier last purchase date
-694,Phone number too short
-694,Invalid join date
 694,Invalid or earlier last purchase date
-695,Phone number too short
 695,Invalid join date
 695,Invalid or earlier last purchase date
-696,Phone number too short
 696,Invalid join date
-696,Invalid or earlier last purchase date
-697,Phone number too short
-697,Invalid join date
-697,Invalid or earlier last purchase date
-698,Phone number too short
 698,Invalid join date
 698,Invalid or earlier last purchase date
-699,Phone number too short
 699,Invalid join date
 699,Invalid or earlier last purchase date
-700,Phone number too short
-700,Invalid join date
 700,Invalid or earlier last purchase date
 701,Invalid gender
-701,Phone number too short
 701,Invalid join date
 701,Invalid or earlier last purchase date
-702,Phone number too short
-702,Invalid join date
-702,Invalid or earlier last purchase date
-703,Phone number too short
 703,Invalid join date
 703,Invalid or earlier last purchase date
 704,Invalid gender
-704,Phone number too short
 704,Invalid join date
-704,Invalid or earlier last purchase date
-705,Phone number too short
-705,Invalid join date
 705,Invalid or earlier last purchase date
-706,Phone number too short
 706,Invalid join date
-706,Invalid or earlier last purchase date
-707,Phone number too short
 707,Invalid join date
-707,Invalid or earlier last purchase date
 708,Invalid age
-708,Phone number too short
-708,Invalid join date
 708,Invalid or earlier last purchase date
-709,Phone number too short
 709,Invalid join date
 709,Invalid or earlier last purchase date
 710,Invalid gender
-710,Phone number too short
-710,Invalid join date
 710,Invalid or earlier last purchase date
 711,Invalid gender
-711,Phone number too short
-711,Invalid join date
-711,Invalid or earlier last purchase date
 712,Phone number too short
 712,Invalid join date
 712,Invalid or earlier last purchase date
-713,Phone number too short
-713,Invalid join date
 713,Invalid or earlier last purchase date
 714,Invalid age
-714,Phone number too short
-714,Invalid join date
 714,Invalid or earlier last purchase date
-715,Phone number too short
-715,Invalid join date
 715,Invalid or earlier last purchase date
 716,Phone number too short
-716,Invalid join date
 716,Invalid or earlier last purchase date
 717,Invalid age
-717,Phone number too short
-717,Invalid join date
 717,Invalid or earlier last purchase date
-718,Phone number too short
-718,Invalid join date
-718,Invalid or earlier last purchase date
-719,Phone number too short
 719,Invalid join date
 719,Invalid or earlier last purchase date
-720,Phone number too short
-720,Invalid join date
-720,Invalid or earlier last purchase date
 721,Invalid gender
 721,Phone number too short
-721,Invalid join date
 721,Invalid or earlier last purchase date

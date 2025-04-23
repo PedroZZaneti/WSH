@@ -1,0 +1,11 @@
+# Ignora node_modules do backend
+Prova/backend/node_modules/
+
+# Ignora arquivos de log
+*.log
+
+# Ignora pastas de build TypeScript
+dist/
+
+# Opcional: VSCode configs
+.vscode/
