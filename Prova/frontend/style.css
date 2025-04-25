@@ -1,0 +1,114 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 2rem;
+}
+
+.card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+.full-width {
+  grid-column: 1 / -1;
+}
+
+.half-width {
+  min-width: 300px;
+}
+
+canvas {
+  width: 100% !important;
+  height: auto !important;
+  max-width: 400px;
+  display: block;
+  margin: 0 auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+table th,
+table td {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.controls input,
+.controls select {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+#pagination button {
+  margin: 0.2rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: #4dabf7;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#pagination button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: white;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  margin-bottom: 2rem;
+}
+
+.logo {
+  height: 60px;
+}
+
+.nav-buttons {
+  display: flex;
+  gap: 1rem;
+}
+
+.nav-button {
+  background-color: #4dabf7;
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.nav-button:hover {
+  background-color: #339af0;
+}
