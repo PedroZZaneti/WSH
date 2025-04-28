@@ -1,72 +1,76 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Customers List</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <header class="header">
-      <img src="./public/logo.png" alt="Belle Croissant Logo" class="logo" />
-      <nav class="nav-buttons">
-        <a href="index.html" class="nav-button">Dashboard</a>
-        <a href="customers.html" class="nav-button">Customers List</a>
-      </nav>
-    </header>
 
-    <h1>Customers List</h1>
+<head>
+  <meta charset="UTF-8" />
+  <title>Customers List</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
 
-    <div class="controls">
-      <input type="text" id="searchInput" placeholder="Search customers..." />
-      <select id="filterMembership">
-        <option value="">All Memberships</option>
-        <option value="bronze">Bronze</option>
-        <option value="silver">Silver</option>
-        <option value="gold">Gold</option>
-      </select>
-      <select id="filterChurned">
-        <option value="">All Status</option>
-        <option value="true">Churned</option>
-        <option value="false">Active</option>
-      </select>
-      <select id="sortField">
-        <option value="firstName">Sort by Name</option>
-        <option value="age">Sort by Age</option>
-        <option value="totalSpending">Sort by Spending</option>
-      </select>
-    </div>
+<body>
+  <header class="header">
+    <img src="./public/logo.png" alt="Belle Croissant Logo" class="logo" />
+    <nav class="nav-buttons">
+      <a href="index.html" class="nav-button">Dashboard</a>
+      <a href="customers.html" class="nav-button">Customers List</a>
+    </nav>
+  </header>
 
-    <table id="customersTable">
-        <thead>
-          <tr>
-            <th>Customer ID</th>
-            <th>First Name</th>
-            <th>Last Name</th>
-            <th>Age</th>
-            <th>Gender</th>
-            <th>Postal Code</th>
-            <th>Email</th>
-            <th>Phone</th>
-            <th>Membership</th>
-            <th>Join Date</th>
-            <th>Last Purchase</th>
-            <th>Total Spending</th>
-            <th>Avg Order Value</th>
-            <th>Frequency</th>
-            <th>Preferred Category</th>
-            <th>Churned</th>
-          </tr>
-        </thead>
-        <tbody>
-          <!-- preenchido via JS -->
-        </tbody>
-      </table>
-      
+  <h1>Customers List</h1>
 
-    <div id="pagination">
-      <!-- botões de página -->
-    </div>
+  <div class="controls">
+    <input type="text" id="searchInput" placeholder="Search customers..." />
+    <select id="filterMembership">
+      <option value="">All Memberships</option>
+      <option value="bronze">Bronze</option>
+      <option value="silver">Silver</option>
+      <option value="gold">Gold</option>
+    </select>
+    <select id="filterChurned">
+      <option value="">All Status</option>
+      <option value="true">Churned</option>
+      <option value="false">Active</option>
+    </select>
+    <select id="sortField">
+      <option value="firstName">Sort by Name</option>
+      <option value="age">Sort by Age</option>
+      <option value="totalSpending">Sort by Spending</option>
+    </select>
+  </div>
 
-    <script src="customers.js"></script>
-  </body>
+  <table id="customersTable">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>First</th>
+        <th>Last</th>
+        <th>Age</th>
+        <th>G</th>
+        <th>ZIP</th>
+        <th>Email</th>
+        <th>Phone</th>
+        <th>Member</th>
+        <th>Join</th>
+        <th>Last Buy</th>
+        <th>$ Total</th>
+        <th>$ Avg</th>
+        <th>Freq</th>
+        <th>Category</th>
+        <th>Churn</th>
+
+      </tr>
+    </thead>
+    <tbody>
+      <!-- preenchido via JS -->
+    </tbody>
+  </table>
+
+
+  <div id="pagination">
+    <!-- botões de página -->
+  </div>
+
+  <script src="customers.js"></script>
+</body>
+
 </html>
