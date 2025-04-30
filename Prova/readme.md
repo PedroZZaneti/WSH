@@ -14,10 +14,14 @@ In any terminal execute the following command:
 
 ## Running the Project
 
-1- Open a terminal in the main folder and run:
+
+1- Open a terminal at the backend folder and run:
+npm run import
+
+2- Open a terminal in main folder and run:
 json-server database.json --port 3000
 
-2- In the backend folder, open another terminal and run:
+3- In the backend folder, open another terminal and run:
 npx ts-node dashboard-api.ts
 
-3- Now everything that everything is running just open index.html or customers.html
+4- Now everything that everything is running just open index.html or customers.html
