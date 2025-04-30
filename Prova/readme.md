@@ -18,6 +18,6 @@ In any terminal execute the following command:
 json-server database.json --port 3000
 
 2- In the backend folder, open another terminal and run:
-npx ts-node src/dashboard-api.ts
+npx ts-node dashboard-api.ts
 
 3- Now everything that everything is running just open index.html or customers.html
