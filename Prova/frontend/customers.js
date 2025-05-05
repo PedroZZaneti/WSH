@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3000/customers";
+const BASE_URL = "http://localhost:4000/customers";
 let customers = [];
 let currentPage = 1;
 const pageSize = 25;

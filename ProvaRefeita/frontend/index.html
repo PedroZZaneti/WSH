@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Belle Croissant</title>
+    <link rel="stylesheet" href="style.css
+    ">
+</head>
+<body>
+    <header class="header">
+        <img src="./public/logo.png" alt="Belle Croissant Logo" class="logo">
+        <nav class="nav-buttons">
+            <a href="index.html" class="nav-button">Dashboard</a>
+            <a href="customers.html" class="nav-button">Customers List</a>
+        </nav>
+    </header>
+
+    <h1>Dashboard - Belle Croissant</h1>
+    <main class="dashbpard-grid">
+        <section id="overview" class="card full-width">
+            <h2>Overview Metrics</h2>
+            <ul id="overview-metrics"></ul>
+        </section>
+
+        <section id="demographics" class="card half-width">
+            <h2>Demographics</h2>
+            <canvas id="genderChart"></canvas>
+        </section>
+
+        <section id="membership" class="card half-width">
+            <h2>Membership Levels</h2>
+            <canvas id="membershipChart"></canvas>
+        </section>
+
+        <section id="purchase-behaviour" class="card half-width">
+            <h2>Purchase Behaviour</h2>
+            <canvas id="categoryChart"></canvas>
+        </section>
+
+        <section id="top-spenders" class="card half-width">
+            <h2>Top Spenders</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Total Spent</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+        </section>
+
+        <section id="trends" class="card full-width">
+            <h2>New Customers Over Time</h2>
+            <canvas id="trendsChart"></canvas>
+        </section>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
